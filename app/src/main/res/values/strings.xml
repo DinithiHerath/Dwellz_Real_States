@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Real_State_Application_4984</string>
+    <string name="default_title">No Title</string>
+    <string name="default_address">No Address</string>
+    <string name="default_price">N/A</string>
+</resources>
